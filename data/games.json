@@ -1,0 +1,312 @@
+{
+	"games": [
+		{
+			"name": "Pokémon™ Brilliant Diamond and Pokémon™ Shining Pearl Double Pack",
+			"year": 2021,
+			"storyline": "Um pacote duplo contendo os jogos Pokémon Brilliant Diamond e Pokémon Shining Pearl também está disponível para compra na versão em formato físico ou em versão digital para download. A versão para download inclui ambas as cópias dos jogos Pokémon Brilliant Diamond e Pokémon Shining Pearl e ambos os jogos serão baixados automaticamente para o console vinculado à conta Nintendo que fez a compra. Se você comprar o pacote duplo na versão física ou digital, receberá um bônus de 200 Poké Balls™ por meio de códigos* de download que podem ser inseridos na funcionalidade Mystery Gift** do seu jogo! Um Manaphy Egg (ovo) será oferecido aos primeiros compradores do jogo Pokémon Brilliant Diamond ou do jogo Pokémon Shining Pearl. Você pode recebê-lo escolhendo “Get via internet” na funcionalidade Mystery Gift** em seu jogo, até segunda-feira, dia 21 de fevereiro de 2022 às 15h59 (horário do Pacífico). Em seguida, deixe o Manaphy com o Pokémon Nursery para obter um ovo contendo Phione!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/p/pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack-switch/hero?v=2021112213",
+			"price": 598.00
+		},
+		{
+			"name": "Hextech Mayhem: A League of Legends Story™",
+			"year": 2021,
+			"storyline": "Neste jogo de ritmo frenético, toda ação gera uma reação explosiva, e aqui o caos é a palavra de ordem. Assuma o papel de Ziggs, o yordle especialista em Hexplosivos, e toque o terror nas redondezas de Piltover. Para dançar, isso aqui é bomba! Siga o ritmo da música e evite obstáculos, neutralize inimigos e acenda pavios para botar fogo no parquinho de uma vez por todas. Crie o caos e corra mais rápido do que o caretão do Heimerdinger para criar a maior bomba que o mundo já viu! Use o sistema de Caos Liberado para orquestrar explosões e ganhar pontos extras... e tudo isso enquanto dribla o esquadrão da chatice e mostra o que é se divertir em grande estilo. Brinque com pólvora em Hextech Mayhem: Uma História de League of Legends!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/h/hextech-mayhem-a-league-of-legends-story-switch/hero?v=2021112302",
+			"price": 41.50
+		},
+		{
+			"name": "Ruined King: A League of Legends Story™",
+			"year": 2021,
+			"storyline": "Reúna um grupo de Campeões de League of Legends, explore Águas de Sentina e viaje às Ilhas das Sombras para desvendar os segredos da temível Névoa Negra. Desenvolvido pela Airship Syndicate, criadora de Battle Chasers e Darksiders, com o estilo de arte do lendário quadrinista Joe Madureira, Ruined King: Uma História de League of Legends é o primeiro jogo da Riot Forge que convida você a explorar o universo de League of Legends. Neste envolvente RPG em turnos, você poderá personalizar seu grupo, controlar uma equipe inusitada de Campeões de League of Legends e explorar a exuberante cidade de Águas de Sentina e as misteriosas Ilhas das Sombras, além de experimentar o Sistema de Iniciativa de Rotas.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/es_MX/games/switch/r/ruined-king-a-league-of-legends-story-switch/hero?v=2021111818",
+			"price": 129.99
+		},
+    {
+			"name": "Pokémon™ Shining Pearl",
+			"year": 2021,
+			"storyline": "Vivencie a história nostálgica do jogo Pokémon™ Pearl Version em uma aventura reimaginada, Pokémon Shining Pearl, agora disponível no console Nintendo Switch™! As aventuras no jogo Pokémon Shining Pearl acontecerão na conhecida região de Sinnoh. Rica em natureza e com o poderoso Mount Coronet em seu núcleo, Sinnoh é uma terra de muitos mitos passados de geração em geração. Você poderá escolher Turtwig, Chimchar ou Piplup para ser seu primeiro parceiro Pokémon e, em seguida, partirá em sua jornada para se tornar o campeão da Pokémon League. Ao longo do caminho, você irá se deparar com a misteriosa organização Team Galactic e poderá encontrar o Pokémon Lendário Palkia.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/p/pokemon-shining-pearl-switch/hero?v=2021111918",
+			"price": 299.00
+		},
+    {
+			"name": "Pokémon™ Brilliant Diamond",
+			"year": 2021,
+			"storyline": "Vivencie a história nostálgica do jogo Pokémon Diamond Version em uma aventura reimaginada, Pokémon Brilliant Diamond, agora disponível no console Nintendo Switch™! As aventuras no jogo Pokémon Brilliant Diamond acontecerão na conhecida região de Sinnoh. Rica em natureza e com o poderoso Mount Coronet em seu núcleo, Sinnoh é uma terra de muitos mitos passados de geração em geração. Você poderá escolher Turtwig, Chimchar ou Piplup para ser seu primeiro parceiro Pokémon e, em seguida, partirá em sua jornada para se tornar o campeão da Pokémon League. Ao longo do caminho, você irá se deparar com a misteriosa organização Team Galactic e poderá encontrar o Pokémon Lendário Dialga.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/p/pokemon-brilliant-diamond-switch/hero?v=2021112119",
+			"price": 299.00
+		},
+    {
+			"name": "Mario Party™ Superstars",
+			"year": 2021,
+			"storyline": "Atenção, superestrelas! Mario Party™ está de volta com cinco tabuleiros clássicos dos jogos da série para Nintendo 64. Jogue para conseguir o máximo de estrelas (e sabotar seus adversários) em tabuleiros com o intergaláctico Espaçolândia ou o aterrorizante Medolâdia! A festa continua no seu próprio ritmo, já que você pode suspender uma partida e continuar depois do ponto em que parou! Em Mario Party, o jogo pode virar rapidamente, portanto, fiquem atentos, jogadores! Este e todos os outros modos também podem ser jogados online*!.",
+			"image": "https://assets.nintendo.com/image/upload/f_auto,q_auto,w_960,h_540/Play%20Nintendo/Mario%20Party%20Superstars/posters/Switch_MPS_LaunchTRL_5994_AvailableNow_YouTube_H264_UPDATED",
+			"price": 299.00
+		},
+    {
+			"name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+			"year": 2021,
+			"storyline": "Três cidades icônicas, três histórias épicas. Jogue a clássica trilogia original de Grand Theft Auto que definiu o gênero – Grand Theft Auto III, Grand Theft Auto: Vice City e Grand Theft Auto: San Andreas – atualizada para a nova geração com diversos aprimoramentos, incluindo melhorias incríveis na iluminação e no ambiente, texturas de alta resolução, distâncias maiores de renderização, controles e mira no estilo de Grand Theft Auto V e muito mais, dando vida a esses mundos aclamados com um nível de detalhe inédito.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_CA/games/switch/g/grand-theft-auto-the-trilogy-the-definitive-edition-switch/hero?v=2021111508",
+			"price": 299.00
+		},
+    {
+			"name": "Metroid™ Dread",
+			"year": 2021,
+			"storyline": "Ao investigar uma transmissão misteriosa no planeta ZDR, Samus enfrenta um inimigo misterioso que a aprisiona neste mundo perigoso. O planeta remoto foi invadido por cruéis formas de vida alienígenas e robôs assassinos chamados E.M.M.I. Cace ou seja caçado enquanto abre caminho através de um labirinto de inimigos na aventura de deslocamento lateral mais intensa de Samus.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/m/metroid-dread-switch/hero?v=2021111913",
+			"price": 299.00
+		},
+    {
+			"name": "Just Dance® 2022",
+			"year": 2021,
+			"storyline": "Just Dance® 2022, o jogo de dança definitivo, está de volta com ambientes inéditos e 40 novas faixas de sucessos, como Don't Go Yet da Camila Cabello, Love Story (Taylor's Version da Taylor Swift, Happier Than Ever da Billie Eilish e mais!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/j/just-dance-2022-switch/hero?v=2021112010",
+			"price": 239.95
+		},
+    {
+			"name": "Mario Kart™ 8 Deluxe",
+			"year": 2017,
+			"storyline": "Acelere nesta versão definitiva do jogo Mario Kart 8 e jogue a qualquer hora, em qualquer lugar! Participe de corridas com seus amigos ou compita com eles em um modo de batalha revisado, em pistas de batalha que estão de volta, ou pistas completamente novas. Jogue com a comunicação local sem fio em multijogador para até quatro jogadores em 1080p ao jogar no modo TV. Todas as pistas da versão para o Wii U, incluindo conteúdo extra, estão de volta. Além disso, Inklings aparecem como novos personagens convidados, junto com favoritos que estão de volta, como Rei Bu, Quebra-ossos e Bowser Jr.!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/m/mario-kart-8-deluxe-switch/hero?v=2021111411",
+			"price": 299.00
+		},
+    {
+			"name": "Super Smash Bros.™ Ultimate",
+			"year": 2018,
+			"storyline": "Personagens icônicos se enfrentam na luta definitiva, que você poderá jogar a qualquer hora, em qualquer lugar! Derrote seus rivais com os novos personagens Simon Belmont e King K. Rool, que juntam-se a Inkling, Ridley e todos os outros lutadores na história da série Super Smash Bros. Aproveite a velocidade e o combate melhorados e lute em novos cenários baseados na série Castlevania, Super Mario Odyssey e muito mais!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/s/super-smash-bros-ultimate-switch/hero?v=2021111809",
+			"price": 299.00
+		},
+    {
+			"name": "Luigi’s Mansion™ 3",
+			"year": 2019,
+			"storyline": "Luigi foi convidado a se hospedar no suntuoso hotel Last Resort. Mas com o sumiço de Mario e seus amigos, nosso herói vestido de verde terá de superar seus medos para poder salvá-los! Golpeie, sopre e aspire os fantasmas com a novíssima Poltergust G-00, e junte suas forças com Gooigi para decifrar engenhocas e derrotar chefões endiabrados em cada piso temático deste hotel. E a aventura não para por aí: entre no ScareScraper para jogar no modo cooperativo com até 7 outros jogadores pela rede local sem fio ou online*!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/l/luigis-mansion-3-switch/hero?v=2021111800",
+			"price": 299.00
+		},
+    {
+			"name": "Animal Crossing™: New Horizons",
+			"year": 2020,
+			"storyline": "Escape para uma ilha deserta e crie o seu próprio paraíso enquanto explora, cria e customiza em Animal Crossing: New Horizons. A sua ilha traz uma variedade incrível de recursos naturais que podem ser usados para criar de tudo, desde objetos para o seu conforto a ferramentas. Você pode caçar insetos ao amanhecer, decorar o seu paraíso durante o dia ou desfrutar do pôr do sol na praia enquanto pesca no oceano. A hora do dia e as estações do ano correspondem à realidade, então aproveite a oportunidade de conferir a sua ilha a cada dia para encontrar novas surpresas durante o ano todo.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/a/animal-crossing-new-horizons-switch/hero?v=2021112219",
+			"price": 299.00
+		},
+    {
+			"name": "Stardew Valley",
+			"year": 2019,
+			"storyline": "Você herdou a antiga fazenda do seu avô em Stardew Valley. De posse de ferramentas usadas e de um punhado de moedas, você parte em direção à sua nova vida. Você conseguirá aprender a viver da terra e transformar o campo coberto de mato em um próspero lar? Não vai ser fácil. Desde que a Corporação Joja chegou à cidade, as antigas tradições quase desapareceram. O centro comunitário, que já fora o centro de atividade mais animado da cidade, agora está em ruínas. Mas parece que o vale está repleto de oportunidades. Com um pouco de dedicação, você poderá ser responsável por restaurar a grandeza de Stardew Valley!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/s/stardew-valley-switch/hero?v=2021111618",
+			"price": 24.99
+		},
+    {
+			"name": "Super Mario™ 3D World + Bowser’s Fury",
+			"year": 2021,
+			"storyline": "Salte e escale por dezenas de fases coloridas! Multiplique a diversão juntando-se ou competindo contra amigos localmente* ou online** para alcançar o objetivo de cada fase. Trabalhem juntos para explorar e descobrir itens colecionáveis ou competir pela coroa ganhando a maior pontuação, criando um frenesi amistoso! Mario (e seus amigos) podem usar uma variedade de itens power-up como o Super Bell, que concede habilidades de gato, como escalar e arranhar. Aproveite as vantagens extras para completar as fases e conquistar a coroa!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/s/super-mario-3d-world-plus-bowsers-fury-switch/hero?v=2021111408",
+			"price": 299.00
+		},
+    {
+			"name": "Mario Golf™: Super Rush",
+			"year": 2021,
+			"storyline": "Entre em campo com até quatro jogadores localmente* ou online** e jogue golfe com amigos da série Super Mario™ como Mario, Peach, Yoshi e muito mais! Os modos variam do Standard Golf ao enérgico Speed Golf e o emocionante Golf Adventure. Os controles simples de movimento ou controles de botões tornam mais fácil para novos jogadores e jogadores experientes darem tacadas.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/m/mario-golf-super-rush-switch/hero?v=2021111708",
+			"price": 299.00
+		},
+    {
+			"name": "Kirby™ and the Forgotten Land",
+			"year": 2022,
+			"storyline": "Assuma o controle da ponderosa bolinha rosa, Kirby, e mova-se livremente por fases em 3D enquanto você descobre um mundo misterioso com estruturas abandonadas por uma civilização passada – como um shopping center?! Copie as habilidades dos inimigos, como Sword e Ice, e use-as para atacar e explorar os arredores! Que jornada espera por Kirby? Respire fundo e prepare-se para uma aventura inesquecível!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/k/kirby-and-the-forgotten-land-switch/hero?v=2021111815",
+			"price": 299.00
+		},
+    {
+			"name": "Farming Simulator 22",
+			"year": 2022,
+			"storyline": "No papel de um fazendeiro moderno, use toda a sua criatividade para construir sua fazenda em três cenários diversos na América e na Europa. Farming Simulator 22 oferece uma enorme variedade de atividades agrícolas com foco em agricultura, pecuária e silvicultura, agora com a empolgante adição de ciclos sazonais!",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/header.jpg?t=1637668464",
+			"price": 159.00
+		},
+    {
+			"name": "Horizon Zero Dawn™ Complete Edition",
+			"year": 2022,
+			"storyline": "Viva a experiência de Aloy em sua busca lendária para desvendar os mistérios de uma Terra do futuro controlada por máquinas. Use ataques táticos devastadores contra suas presas e explore um mundo aberto majestoso neste premiado RPG de aventura e ação!",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg?t=1635442187",
+			"price": 100.00
+		},
+    {
+			"name": "God of War",
+			"year": 2022,
+			"storyline": "Com a vingança contra os deuses do Olimpo em um passado distante, Kratos agora vive como um mortal no reino dos deuses e monstros nórdicos. É nesse mundo duro e implacável que ele deve lutar para sobreviver... e ensinar seu filho a fazer o mesmo.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg?t=1636735779",
+			"price": 199.90
+		},
+    {
+			"name": "Poker Club",
+			"year": 2021,
+			"storyline": "Bem-vindo ao Poker Club. Vive a vida de um profissional de póquer na simulação mais realista de sempre! Junta-te a uma comunidade de jogadores online e sagra-te vencedor do circuito Poker Club Championship! Quer sejas um novato ou um experiente jogador de póquer, entra no mundo de Poker Club e eleva a fasquia!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/p/poker-club-switch/hero?v=2021111901",
+			"price": 128.52
+		},
+    {
+			"name": "Sam & Max: Beyond Time and Space",
+			"year": 2021,
+			"storyline": "Sam & Max: Além do Tempo e Espaço é uma versão remasterizada da segunda temporada dos jogos episódicos de Sam & Max da Telltale, cuidadosamente atualizados por um pequeno grupo dos desenvolvedores originais. Sam é um cachorro detetive de um metro e oitenta e com faro para a justiça. Max é uma criatura-coelho hipercinética que adora confusão. Juntos, eles são a Freelance Police – uma dupla divertida e irreverente cujo estilo esotérico de combate ao crime vem divertindo fãs de quadrinhos e videogames por mais de trinta anos.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/s/sam-and-max-beyond-time-and-space-switch/hero?v=2021112121",
+			"price": 37.99
+		},
+    {
+			"name": "Life is Strange Remastered Collection",
+			"year": 2021,
+			"storyline": "Volte a Arcadia Bay e vivencie dois jogos premiados como nunca antes! Os visuais e animações remasterizados dão vida nova ao excelente elenco de personagens e às histórias fascinantes.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/E3/2021/Games/L_GHup7yonEunY/life-is-strange-remastered-collection-switch/hero?v=2021111618",
+			"price": 199.99
+		},
+    {
+			"name": "Life is Strange: True Colors™",
+			"year": 2021,
+			"storyline": "Inicia uma nova e ousada era do premiado Life is Strange, com uma nova protagonista e um mistério emocionante a ser solucionado! Faz tempo que Alex Chen reprime a maldição que a assola: a habilidade sobrenatural de vivenciar, absorver e manipular as fortes emoções de outras pessoas, que aparecem para ela como auras coloridas e vibrantes. Após a morte de seu irmão em um suposto acidente, Alex precisa lidar com seu poder instável para descobrir a verdade e desvendar os segredos sombrios de uma pequena cidade.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/E3/2021/Games/L_GHup7yonEunY/life-is-strange-true-colors-switch/hero?v=2021111820",
+			"price": 199.99
+		},
+    {
+			"name": "MARIO + RABBIDS SPARKS OF HOPE",
+			"year": 2022,
+			"storyline": "Junte-se a Mario, Luigi, Princess Peach, Rabbid Peach, Rabbid Luigi e amigos numa aventura galáctica para derrotar uma entidade malvada e salvar seus companheiros Spark. Explore os planetas da galáxia enquanto descobre segredos misteriosos e missões imperdíveis!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/E3/2021/Games/M_jhoLGI4TZf7W/mario-plus-rabbids-sparks-of-hope-switch/hero?v=2021112015",
+			"price": 299.99
+		},
+    {
+			"name": "Metal Slug Tactics",
+			"year": 2022,
+			"storyline": "METAL SLUG está de volta com um novo capítulo do universo METAL SLUG. Descubra uma nova faceta desse icônico jogo de ação frenética e mergulhe em um RPG tático dinâmico com elementos roguelike! Divertido e descontraído, Metal Slug Tactics pega tudo o que o METAL SLUG tem de especial e único e transporta para o gênero tático!",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/m/metal-slug-tactics-switch/hero?v=2021111304",
+			"price": 99.99
+		},
+    {
+			"name": "Shadowrun: Dragonfall - Director's Cut",
+			"year": 2022,
+			"storyline": "Shadowrun: Dragonfall - Director’s Cut é o lançamento individual da aclamada campanha Dragonfall da Harebrained Schemes, lançada originalmente como uma expansão de Shadowrun Returns. A versão do diretor traz vários conteúdos novos e melhorias para o jogo original, criando a versão definitiva para consoles deste RPG cyberpunk único.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/s/shadowrun-dragonfall-directors-cut-switch/hero?v=2021111917",
+			"price": 199.99
+		},
+    {
+			"name": "STAR WARS: Hunters™",
+			"year": 2022,
+			"storyline": "STAR WARS: Hunters™ conectará jogadores em tempo real via cross-play para travar batalhas em ambientes inspirados por lugares icônicos de STAR WARS. Os jogadores se juntarão a esquadrões de personagens inéditos e autênticos, como Caçadores de Recompensas, heróis da Rebelião e Stormtroopers Imperiais, neste jogo de ação imersivo e acelerado em uma galáxia deslumbrante do universo STAR WARS.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/fr_CA/games/switch/s/star-wars-hunters-switch/hero?v=2021111602",
+			"price": 299.99
+		},
+    {
+			"name": "Wreckfest",
+			"year": 2022,
+			"storyline": "Wreckfest possui uma paulada de opções de melhorias e personalizações. Você pode se preparar para a próxima corrida de demolição com para-choques reforçados, santantônios, protetores laterais e muito mais, ou pode preparar o carro para uma Corrida Lata Velha com peças de desempenho de motor como filtros de ar, árvores de cames, sistemas de combustível etc. Wreckfest está se tornando o melhor jogo de combate motorizado que existe.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/w/wreckfest-switch/hero?v=2021111412",
+			"price": 299.99
+		},
+    {
+			"name": "LumbearJack",
+			"year": 2022,
+			"storyline": "Jack is a humble bear with a simple dream: to return nature to its former glory with the help of his trusty axe and his animal friends. Slice and dice through machinery, slap some sense into wasteful humans, and work with wacky woodland critters to thwart the sinister plans of up-and-coming industrial giant Evil Works.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/l/lumbearjack-switch/hero?v=2021111500",
+			"price": 299.99
+		},
+    {
+			"name": "Shadowrun Trilogy",
+			"year": 2022,
+			"storyline": "Shadowrun Trilogy contém 3 jogos de RPG táticos clássicos passados numa distopia futurista cyberpunk onde a magia despertou, dando vida a criaturas fantásticas. Criado inicialmente como um RPG de mesa há 30 anos, essa ambientação única conquistou muitos fãs nas três últimas décadas.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/en_US/games/switch/s/shadowrun-trilogy-switch/hero?v=2021111517",
+			"price": 299.99
+		},
+    {
+			"name": "The Legend of Zelda™: Breath of the Wild",
+			"year": 2017,
+			"storyline": "Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo da famosa série que veio para romper barreiras. Viaje pelos vastos campos, florestas e montanhas enquanto descobre o que aconteceu com o reino de Hyrule nesta deslumbrante aventura a céu aberto. E agora no Nintendo Switch, a sua jornada tem mais liberdade do que nunca. Leve o seu console para qualquer lugar e viva aventuras na pele de Link da maneira que quiser.",
+			"image": "https://assets.nintendo.com/image/upload/c_pad,f_auto,h_613,q_auto,w_1089/ncom/pt_BR/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/hero?v=2021111321",
+			"price": 299.99
+		},
+    {
+			"name": "Firewatch",
+			"year": 2016,
+			"storyline": "Firewatch is a single-player first-person mystery set in the Wyoming wilderness, where your only emotional lifeline is the person on the other end of a handheld radio.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/header.jpg?t=1602536561",
+			"price": 36.99
+		},
+    {
+			"name": "FIFA 22",
+			"year": 2022,
+			"storyline": "Jogue o FIFA 22 e ganhe um Item de Jogador de Próxima Geração: receba um Item de Jogador de Próxima Geração (não negociável) no FIFA Ultimate Team a partir de 15 de dezembro ao jogar o FIFA 22 até 14 de janeiro de 2022*.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/header.jpg?t=1602536561",
+			"price": 36.99
+		},
+    {
+			"name": "Terraria",
+			"year": 2011,
+			"storyline": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
+			"price": 9.99
+		},
+    {
+			"name": "UNO",
+			"year": 2016,
+			"storyline": "UNO makes its return with new exciting features! Match cards by color or value and play action cards to change things up. Race against others to empty your hand before everyone else in Classic play or customize your experience with House Rules.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/470220/header.jpg?t=1634326038",
+			"price": 1.99
+		},
+    {
+			"name": "Battlefield™ 2042",
+			"year": 2022,
+			"storyline": "Battlefield™ 2042 é um jogo de tiro em primeira pessoa que marca o retorno à emblemática guerra total da franquia. Em um mundo num futuro próximo, transformado pela desordem, adapte-se a campos de batalha dinâmicos para superá-los com a ajuda do seu pelotão e de um arsenal de ponta.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/header.jpg?t=1637392604",
+			"price": 249.00
+		},
+    {
+			"name": "Cooking Simulator VR",
+			"year": 2021,
+			"storyline": "Torne-se o melhor chef! Assuma o controle de uma cozinha altamente polida e realista equipada com todo tipo de utensílios e balcões. Desbloqueie e domine mais de 80 receitas ou use dezenas de ingredientes naturais para cozinhar tudo o que quiser.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1358140/header.jpg?t=1636464660",
+			"price": 47.49
+		},
+    {
+			"name": "Half-Life: Alyx",
+			"year": 2020,
+			"storyline": "Half-Life: Alyx é a volta da Valve à série Half-Life em realidade virtual. Trata-se da história de uma impossível luta contra uma raça alienígena cruel, conhecida como Combine, situada entre os eventos de Half-Life e Half-Life 2.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/header.jpg?t=1635876995",
+			"price": 109.99
+		},
+    {
+			"name": "Half-Life: Alyx",
+			"year": 2020,
+			"storyline": "Half-Life: Alyx é a volta da Valve à série Half-Life em realidade virtual. Trata-se da história de uma impossível luta contra uma raça alienígena cruel, conhecida como Combine, situada entre os eventos de Half-Life e Half-Life 2.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/header.jpg?t=1635876995",
+			"price": 109.99
+		},
+    {
+			"name": "Resident Evil 2",
+			"year": 2019,
+			"storyline": "Um vírus maligno toma conta dos residentes de Raccoon City em setembro de 1998, afundando a cidade no caos enquanto zumbis comedores de carne humana vagam pelas ruas em busca de sobreviventes.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg?t=1635811811",
+			"price": 89.99
+		},
+    {
+			"name": "Sniper Elite 4",
+			"year": 2017,
+			"storyline": "Descubra uma liberdade incomparável no maior e mais avançado jogo de tiro da Segunda Guerra já criado. Vivencie o combate tático em terceira pessoa, a diversidade na jogabilidade e os épicos disparos longos em níveis gigantescos enquanto você liberta a Itália do controle do Fascismo.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/312660/header.jpg?t=1636393785",
+			"price": 105.99
+		},
+    {
+			"name": "Age of Empires IV",
+			"year": 2021,
+			"storyline": "Um dos mais celebrados jogos de estratégia em tempo real está de volta com tudo em Age of Empires IV, colocando você no centro de grandes batalhas históricas que moldaram o mundo.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/header.jpg?t=1636080484",
+			"price": 199.99
+		},
+    {
+			"name": "Age of Mythology: Extended Edition",
+			"year": 2014,
+			"storyline": "Age of Mythology is back! Choose your god and take to the battlefield in this classic, upgraded with full Steamworks integration and enhanced features.",
+			"image": "https://cdn.cloudflare.steamstatic.com/steam/apps/266840/header.jpg?t=1620145994",
+			"price": 55.99
+		}
+	]
+}
