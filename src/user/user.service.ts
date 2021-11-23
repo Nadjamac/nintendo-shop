@@ -2,7 +2,6 @@ import {
   ConflictException,
   Injectable,
   NotFoundException,
-  UnprocessableEntityException,
 } from '@nestjs/common';
 import { User } from '@prisma/client';
 import { PrismaService } from 'src/prisma.service';
@@ -28,10 +27,6 @@ export class UserService {
 
     if (nicknameExist) {
       throw new ConflictException('Nickname já cadastrado');
-    }
-
-    if (data.password !== data.passwordConfirmation) {
-      throw new UnprocessableEntityException('Senhas não conferem');
     }
 
     const salt = 10;
